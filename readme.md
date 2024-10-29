@@ -24,7 +24,7 @@ To get started with the Lease Rate project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LeaseRate.git
+   git clone https://github.com/mrochelle23/Capstone-Bootstrap.git
    ```
    
 2. Navigate to the project directory:
